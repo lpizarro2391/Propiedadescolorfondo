@@ -131,6 +131,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 		height: 30px;
 		padding: 5px 1.5em;
 		text-decoration: none;
+		color:#fff;
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
