@@ -149,6 +149,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 #featured {
 	background: url(../img/css3_html5_badges.png) right top no-repeat,
 							url(../img/papel_doblado.jpg) left top repeat;
+	background-size: 150px,300px;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
